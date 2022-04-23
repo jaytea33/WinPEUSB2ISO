@@ -9,7 +9,7 @@ illegal, but there are links in the application to make things easier.
 
 Instructions:
 
-1. Simply go down the list. The "File Exists" checkboxes will indicate whether the files exists on your system. If you don't have oscdimg, click "Download ADK" followed by "Install oscdimg"
+1. Simply go down the list. The "File Exists" checkboxes will indicate whether the files exist on your system. If you don't have oscdimg, click "Download ADK" followed by "Install oscdimg"
 2. Select the letter of your USB. You can test this with a mounted ISO as well if you wish, all it needs is the files referenced and it'll build the ISO.
 3. After selecting the letter of the USB the rest of the fields fill out accordingly.
 4. Select the path where you wish to save your ISO
