@@ -16,3 +16,5 @@ Instructions:
 5. Click "Make ISO"
 
 My intention was to build an app that does the reverse of Rufus - USB to ISO rather than ISO to USB. Crude as it may be, since I've accomplished that, it's unlikely I'll ever update this, as working around syntax errors due to 'space' characters made this a lot harder than it needed to be, but feel free to use it however necessary.
+
+If you run into problems with it booting, please try downloading the latest Windows ADK from Microsoft to get a newer oscdimg
